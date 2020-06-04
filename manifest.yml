@@ -3,7 +3,7 @@ applications:
   memory: 128M
   instances: 1
   domain: mybluemix.net
-  name: Emotions analyzer
-  host: Emotions-analyzer
+  name: Flask app template
+  host: flask-app-template
   disk_quota: 1024M
   buildpack: python_buildpack
